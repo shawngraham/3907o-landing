@@ -6,6 +6,13 @@
     <description>Example Site Description</description>
     
     <item>
+        <title>Setting up your machine</title>
+        <link>/machinesetup.html</link>
+        <pubDate>Thu, 10 Dec 2015 13:03:08 EST</pubDate>
+        <description>Set up.</description>
+    </item>    
+    
+    <item>
         <title>Open Access</title>
         <link>/openaccess.html</link>
         <pubDate>Thu, 10 Dec 2015 09:10:13 EST</pubDate>
@@ -17,13 +24,6 @@
         <link>/questionnaire.html</link>
         <pubDate>Thu, 10 Dec 2015 09:09:52 EST</pubDate>
         <description>Pre-class Qs.</description>
-    </item>    
-    
-    <item>
-        <title>Setting up your machine</title>
-        <link>/machinesetup.html</link>
-        <pubDate>Thu, 10 Dec 2015 09:09:04 EST</pubDate>
-        <description>Set up.</description>
     </item>    
     
     <item>
