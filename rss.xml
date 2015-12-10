@@ -6,17 +6,52 @@
     <description>Example Site Description</description>
     
     <item>
-        <title>Assessment</title>
-        <link>/assessment.html</link>
-        <pubDate>Wed, 09 Dec 2015 21:07:17 EST</pubDate>
-        <description>Assessment.</description>
+        <title>Open Access</title>
+        <link>/openaccess.html</link>
+        <pubDate>Thu, 10 Dec 2015 09:10:13 EST</pubDate>
+        <description>Open Access.</description>
+    </item>    
+    
+    <item>
+        <title>Questionnaire</title>
+        <link>/questionnaire.html</link>
+        <pubDate>Thu, 10 Dec 2015 09:09:52 EST</pubDate>
+        <description>Pre-class Qs.</description>
+    </item>    
+    
+    <item>
+        <title>Setting up your machine</title>
+        <link>/machinesetup.html</link>
+        <pubDate>Thu, 10 Dec 2015 09:09:04 EST</pubDate>
+        <description>Set up.</description>
+    </item>    
+    
+    <item>
+        <title>Syllabus</title>
+        <link>/getting-started.html</link>
+        <pubDate>Thu, 10 Dec 2015 09:09:02 EST</pubDate>
+        <description>Course Syllabus.</description>
     </item>    
     
     <item>
         <title>Code of Conduct</title>
         <link>/codeofconduct.html</link>
-        <pubDate>Wed, 09 Dec 2015 21:03:54 EST</pubDate>
+        <pubDate>Thu, 10 Dec 2015 09:08:12 EST</pubDate>
         <description>code of conduct.</description>
+    </item>    
+    
+    <item>
+        <title>Assessment</title>
+        <link>/assessment.html</link>
+        <pubDate>Thu, 10 Dec 2015 09:07:46 EST</pubDate>
+        <description>Assessment.</description>
+    </item>    
+    
+    <item>
+        <title>Final Project</title>
+        <link>/finalproject.html</link>
+        <pubDate>Thu, 10 Dec 2015 09:07:11 EST</pubDate>
+        <description>Final Project.</description>
     </item>    
     
     <item>
@@ -31,41 +66,6 @@
         <link>/about.html</link>
         <pubDate>Wed, 09 Dec 2015 20:54:24 EST</pubDate>
         <description>[TOC]  Shawn Graham Associate Prof of Digital Humanities [@electricarchaeo](http://twitter.com/electricarchaeo) - research blog at [electric archaeology](http://electricarchaeology.ca) - open notebook at [shawngraham.github.io](http://shawngraham.github.io) - office at PA 406 - email at shawn dot graham at carleton dot ca - Office hours by chance or arrangement iframe width="560" height="315" src="https://www.youtube.com/embed/HaSblM-Qz3A" frameborder="0" allowfullscreen/iframe ...</description>
-    </item>    
-    
-    <item>
-        <title>Syllabus</title>
-        <link>/getting-started.html</link>
-        <pubDate>Wed, 09 Dec 2015 20:43:28 EST</pubDate>
-        <description>Course Syllabus.</description>
-    </item>    
-    
-    <item>
-        <title>Final Project</title>
-        <link>/finalproject.html</link>
-        <pubDate>Wed, 09 Dec 2015 20:38:43 EST</pubDate>
-        <description>Final Project.</description>
-    </item>    
-    
-    <item>
-        <title>Setting up your machine</title>
-        <link>/machinesetup.html</link>
-        <pubDate>Wed, 09 Dec 2015 20:27:00 EST</pubDate>
-        <description>Set up.</description>
-    </item>    
-    
-    <item>
-        <title>Questionnaire</title>
-        <link>/questionnaire.html</link>
-        <pubDate>Wed, 09 Dec 2015 20:07:06 EST</pubDate>
-        <description>Pre-class Qs.</description>
-    </item>    
-    
-    <item>
-        <title>Open Access</title>
-        <link>/openaccess.html</link>
-        <pubDate>Wed, 09 Dec 2015 20:00:32 EST</pubDate>
-        <description>Open Access.</description>
     </item>    
     
     <item>
