@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+    <title>HIST3907o Crafting Digital History</title>
+    <link>/</link>
+    <description>Example Site Description</description>
+    
+    <item>
+        <title>Assessment</title>
+        <link>/assessment.html</link>
+        <pubDate>Wed, 09 Dec 2015 21:07:17 EST</pubDate>
+        <description>Assessment.</description>
+    </item>    
+    
+    <item>
+        <title>Code of Conduct</title>
+        <link>/codeofconduct.html</link>
+        <pubDate>Wed, 09 Dec 2015 21:03:54 EST</pubDate>
+        <description>code of conduct.</description>
+    </item>    
+    
+    <item>
+        <title>HIST3902O @ Carleton U 2016</title>
+        <link>/index.html</link>
+        <pubDate>Wed, 09 Dec 2015 21:03:17 EST</pubDate>
+        <description>Course Site.</description>
+    </item>    
+    
+    <item>
+        <title>About</title>
+        <link>/about.html</link>
+        <pubDate>Wed, 09 Dec 2015 20:54:24 EST</pubDate>
+        <description>[TOC]  Shawn Graham Associate Prof of Digital Humanities [@electricarchaeo](http://twitter.com/electricarchaeo) - research blog at [electric archaeology](http://electricarchaeology.ca) - open notebook at [shawngraham.github.io](http://shawngraham.github.io) - office at PA 406 - email at shawn dot graham at carleton dot ca - Office hours by chance or arrangement iframe width="560" height="315" src="https://www.youtube.com/embed/HaSblM-Qz3A" frameborder="0" allowfullscreen/iframe ...</description>
+    </item>    
+    
+    <item>
+        <title>Syllabus</title>
+        <link>/getting-started.html</link>
+        <pubDate>Wed, 09 Dec 2015 20:43:28 EST</pubDate>
+        <description>Course Syllabus.</description>
+    </item>    
+    
+    <item>
+        <title>Final Project</title>
+        <link>/finalproject.html</link>
+        <pubDate>Wed, 09 Dec 2015 20:38:43 EST</pubDate>
+        <description>Final Project.</description>
+    </item>    
+    
+    <item>
+        <title>Setting up your machine</title>
+        <link>/machinesetup.html</link>
+        <pubDate>Wed, 09 Dec 2015 20:27:00 EST</pubDate>
+        <description>Set up.</description>
+    </item>    
+    
+    <item>
+        <title>Questionnaire</title>
+        <link>/questionnaire.html</link>
+        <pubDate>Wed, 09 Dec 2015 20:07:06 EST</pubDate>
+        <description>Pre-class Qs.</description>
+    </item>    
+    
+    <item>
+        <title>Open Access</title>
+        <link>/openaccess.html</link>
+        <pubDate>Wed, 09 Dec 2015 20:00:32 EST</pubDate>
+        <description>Open Access.</description>
+    </item>    
+    
+    <item>
+        <title>Crafting Digital History</title>
+        <link>/crafting.html</link>
+        <pubDate>Wed, 02 Dec 2015 21:16:13 EST</pubDate>
+        <description>[TOC]  On Craftiness img src="/uploads/inspiration.png" style="PADDING-RIGHT: 5px"align="left"Great art comes from inspiration. Technical skill, yes of course. But 'inspiration' - the divine breath. Science? Science requires hard work and graft. Careful observation, attention to detail, replication, routine and method. Carefully record everything, and someone else could (should be able to)...</description>
+    </item>    
+    
+</channel>
+</rss>
