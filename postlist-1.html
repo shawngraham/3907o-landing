@@ -29,6 +29,60 @@
 
 <div class="panel panel-default">
     <div class="panel-heading">
+        <a href="/about.html">About</a> 
+        <span class="pull-right text-muted">2015-12-10</span>
+    </div>
+    <div class="panel-body">
+        
+            <div class="htmltruncate-md">
+                <div class="toc">
+<ul>
+<li><a href="#shawn-graham">Shawn Graham</a><ul>
+<li><a href="#about-this-site">About this site</a><ul>
+<li><a href="#workflow">Workflow</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+<p><em>Check the 'updates' tab above frequently for posts from me, sharing resources, cool tools, and pointers to more tutorials.</em></p>
+<h1 id="shawn-graham">Shawn Graham</h1>
+<p>Associate Prof of Digital Humanities
+<a href="http://twitter.com/electricarchaeo">@electricarchaeo</a>
+- research blog at <a href="http://electricarchaeology.ca">electric archaeology</a>
+- open notebook at <a href="http://shawngraham.github.io">shawngraham.github.io</a>
+- office at PA 406
+- email at shawn dot graham at carleton dot ca
+- Office hours by chance or arrangement</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaSblM-Qz3A" frameborder="0" allowfullscreen></iframe>
+
+<h2 id="about-this-site">About this site</h2>
+<p>This site is powered by <a href="http://pykwiki.nullism.com/">PyKwiki</a> (see below)</p>
+<p>Icons are from the <a href="https://thenounproject.com/">Noun Project</a>:</p>
+<ul>
+<li>'Designer' by Marie Van den Broeck from the Noun Project</li>
+<li>'Lock', by Jafri Ali </li>
+<li>'Robot', by Rutmer Zijlstra</li>
+</ul>
+<p>Other Images</p>
+<ul>
+<li>'Inspiration' Screenshot from Google Search Results</li>
+<li>'Hand Knitted Laptop' by <a href="https://www.flickr.com/photos/katemonkey/5665916936">KateMonkey</a></li>
+</ul>
+<h3 id="workflow">Workflow</h3>
+<p>This site is a static site generated using the python package 'PyKwiki'. Individual files are written in markdown format. Then, at the command line, I run <code>$ python pywkiki cache -f</code> which reads all of my markdown files and turns them into static html. These html files are then synced to a github repository on the gh-pages branch. That branch is configured using a <code>CNAME</code> file to point to the domain I registered for this course, <code>craftingdigitalhistory.ca</code>.  That domain is similarly configured with a <code>CNAME</code> entry via the cpanel to point back to <code>shawngraham.github.io</code>. This way, instead of futzing with ftp, I use version control to keep everything in sync. This also has the happy side effect that you can fork a copy of this site for your own reference.</p>
+<p>I've used wordpress blogs in the past for course websites, and these work well enough. But I've become disenchanted with the Wordpress interface, and I rather like the idea of writing once, deploying everywhere. When I write in markdown, the plain text files stay with me and I can use <code>pandoc</code> to convert them to whatever else I need. The other thing is, these files will always remain machine readable, whatever Microscoft or Apple do. </p>
+<p>You, too, will learn how to do this.</p>
+                <div class="htmltruncate-bottom"></div>
+            </div>
+            <a href="/about.html" class="btn btn-default">...</a>
+        
+    </div>
+</div>
+
+<div class="panel panel-default">
+    <div class="panel-heading">
         <a href="/landingpageingithub.html">Setting up a landing page on Github</a> 
         <span class="pull-right text-muted">2015-12-10</span>
     </div>
@@ -44,51 +98,6 @@
                 <div class="htmltruncate-bottom"></div>
             </div>
             <a href="/landingpageingithub.html" class="btn btn-default">...</a>
-        
-    </div>
-</div>
-
-<div class="panel panel-default">
-    <div class="panel-heading">
-        <a href="/machinesetup.html">Setting up your machine</a> 
-        <span class="pull-right text-muted">2015-12-10</span>
-    </div>
-    <div class="panel-body">
-        
-            <div class="htmltruncate-md">
-                <div class="toc">
-<ul>
-<li><a href="#setting-up-your-machine">Setting up your machine</a><ul>
-<li><a href="#setting-up-video-annotation">Setting up video &amp; annotation</a></li>
-<li><a href="#setting-up-a-community">Setting up a community</a></li>
-<li><a href="#setting-up-a-digital-laboratory">Setting up a digital laboratory</a></li>
-</ul>
-</li>
-</ul>
-</div>
-<h1 id="setting-up-your-machine">Setting up your machine</h1>
-<h2 id="setting-up-video-annotation">Setting up video &amp; annotation</h2>
-<p>You will end up installing a number of pieces of free software as you move through this course. But to begin, we need to put some things on your machine that will enable me to understand what you are seeing and experiencing as you move through the course, should things not quite click for you. </p>
-<ul>
-<li><a href="http://screencast-o-matic.com/">Screen-cast-o-matic</a> allows you to make quick videos. When something doesn't work, you can use this free software to make a video where you can talk me through what you are doing and where things are going wrong</li>
-<li><a href="https://hypothes.is/">Hypothes.is</a> This is a plugin for <a href="https://www.google.com/chrome/browser/desktop/index.html">the Chrome browser</a>. Install both Chrome and Hypothes.is. With this plugin, you can highlight text in our <a href="http://workbook.craftingdigitalhistory.ca">workbook</a> and create an annotation that everyone can see. These annotations can have threaded conversations, so feel free to annotate the workbook as you see fit - highlight things that are confusing, or that work well, or that strike you as interesting because of x, y, z. Annotate things that you think might be useful in your other classes, too!</li>
-</ul>
-<h2 id="setting-up-a-community">Setting up a community</h2>
-<p>Then there is the problem of how do we make this feel like a class, with actual living humans in it, when it's all online? </p>
-<ul>
-<li>A free account for Slack https://slack.com/ which handles our private communications. You will receive in your Cumail account a link to a private website into which you will enter your cumail email account. This will give you access to your space.</li>
-<li>An account on Github http://github.com; you will set this up on your own.</li>
-<li>Twitter is optional, but most digital humanities / digital history folks are on there, and that’s where a lot of the field is discussed (look up Dan Cohen, the executive director of the Digital Public Library of America, who maintains an excellent list; a great place to start!) Our course hashtag will be <a href="https://twitter.com/search?q=hist3907o&amp;src=typd">#hist3907o</a></li>
-</ul>
-<h2 id="setting-up-a-digital-laboratory">Setting up a digital laboratory</h2>
-<p>Finally, you will need a kind of 'digital laboratory' or 'workshop' for yourself. I understand this to mean a kind of ecosystem of both offline and online spaces that interconnect, and enable us to work through the potentials of digital history. </p>
-<ul>
-<li>You will receive a code for a free one-year domain of your own hosted by <a href="http://reclaimhosting.com">Reclaim Hosting</a>. This code will be tied to your official Carleton email account. This webspace is yours to experiment with, but it will also host your own ‘digital history laboratory’. You will set this up on your own, as part of the initial exercises in this class. At the end of the calendar year, you can choose to renew (which costs $US 25) or you can cancel the account.</li>
-<li>Please also make a note of the course repositories at <a href="https://github.com/craftingdigitalhistory/helpful-things/blob/master/weekly-template.md">https://github.com/craftingdigitalhistory/</a> and at <a href="https://github.com/shawngraham/hist3907o">https://github.com/shawngraham/hist3907o</a>. I encourage you to 'fork' (or take a copy) of these for your future reference.</li>
-</ul>
-                <div class="htmltruncate-bottom"></div>
-            </div>
-            <a href="/machinesetup.html" class="btn btn-default">...</a>
         
     </div>
 </div>
