@@ -6,6 +6,20 @@
     <description>Example Site Description</description>
     
     <item>
+        <title>Setting up a landing page on Github</title>
+        <link>/landingpageingithub.html</link>
+        <pubDate>Thu, 10 Dec 2015 20:42:16 EST</pubDate>
+        <description>Set up.</description>
+    </item>    
+    
+    <item>
+        <title>Setting up your machine</title>
+        <link>/machinesetup.html</link>
+        <pubDate>Thu, 10 Dec 2015 20:17:49 EST</pubDate>
+        <description>Set up.</description>
+    </item>    
+    
+    <item>
         <title>Final Project</title>
         <link>/finalproject.html</link>
         <pubDate>Thu, 10 Dec 2015 19:38:43 EST</pubDate>
@@ -17,13 +31,6 @@
         <link>/assessment.html</link>
         <pubDate>Thu, 10 Dec 2015 18:39:43 EST</pubDate>
         <description>Assessment.</description>
-    </item>    
-    
-    <item>
-        <title>Setting up your machine</title>
-        <link>/machinesetup.html</link>
-        <pubDate>Thu, 10 Dec 2015 13:03:08 EST</pubDate>
-        <description>Set up.</description>
     </item>    
     
     <item>
