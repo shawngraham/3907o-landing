@@ -6,6 +6,20 @@
     <description>Example Site Description</description>
     
     <item>
+        <title>Final Project</title>
+        <link>/finalproject.html</link>
+        <pubDate>Thu, 10 Dec 2015 19:38:43 EST</pubDate>
+        <description>Final Project.</description>
+    </item>    
+    
+    <item>
+        <title>Assessment</title>
+        <link>/assessment.html</link>
+        <pubDate>Thu, 10 Dec 2015 18:39:43 EST</pubDate>
+        <description>Assessment.</description>
+    </item>    
+    
+    <item>
         <title>Setting up your machine</title>
         <link>/machinesetup.html</link>
         <pubDate>Thu, 10 Dec 2015 13:03:08 EST</pubDate>
@@ -38,20 +52,6 @@
         <link>/codeofconduct.html</link>
         <pubDate>Thu, 10 Dec 2015 09:08:12 EST</pubDate>
         <description>code of conduct.</description>
-    </item>    
-    
-    <item>
-        <title>Assessment</title>
-        <link>/assessment.html</link>
-        <pubDate>Thu, 10 Dec 2015 09:07:46 EST</pubDate>
-        <description>Assessment.</description>
-    </item>    
-    
-    <item>
-        <title>Final Project</title>
-        <link>/finalproject.html</link>
-        <pubDate>Thu, 10 Dec 2015 09:07:11 EST</pubDate>
-        <description>Final Project.</description>
     </item>    
     
     <item>
