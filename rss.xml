@@ -6,6 +6,55 @@
     <description>Example Site Description</description>
     
     <item>
+        <title>Module 2 Exercise 3 HELP</title>
+        <link>/canadianaapi.html</link>
+        <pubDate>Tue, 15 Dec 2015 09:04:08 EST</pubDate>
+        <description>working with the canadiana api.</description>
+    </item>    
+    
+    <item>
+        <title>Hosting html on github pages</title>
+        <link>/hostinghtmlgithub.html</link>
+        <pubDate>Tue, 15 Dec 2015 09:02:49 EST</pubDate>
+        <description>hosting html.</description>
+    </item>    
+    
+    <item>
+        <title>Forking a repo and making a pull request</title>
+        <link>/forking.html</link>
+        <pubDate>Tue, 15 Dec 2015 09:01:38 EST</pubDate>
+        <description>forking.</description>
+    </item>    
+    
+    <item>
+        <title>Setting up a landing page on Github</title>
+        <link>/landingpageingithub.html</link>
+        <pubDate>Tue, 15 Dec 2015 08:59:03 EST</pubDate>
+        <description>Set up.</description>
+    </item>    
+    
+    <item>
+        <title>Setting up an open notebook with notational velocity and github</title>
+        <link>/settingupopennotebook.html</link>
+        <pubDate>Tue, 15 Dec 2015 08:58:40 EST</pubDate>
+        <description>open notebook with notational velocity - resophnotes works broadly similar.</description>
+    </item>    
+    
+    <item>
+        <title>A Video Introduction</title>
+        <link>/videointro.html</link>
+        <pubDate>Tue, 15 Dec 2015 08:56:34 EST</pubDate>
+        <description>video introduction to the course.</description>
+    </item>    
+    
+    <item>
+        <title>Final Project</title>
+        <link>/finalproject.html</link>
+        <pubDate>Tue, 15 Dec 2015 08:55:03 EST</pubDate>
+        <description>Final Project.</description>
+    </item>    
+    
+    <item>
         <title>HIST3907O @ Carleton U 2016</title>
         <link>/index.html</link>
         <pubDate>Mon, 14 Dec 2015 20:53:38 EST</pubDate>
@@ -34,24 +83,10 @@
     </item>    
     
     <item>
-        <title>Setting up a landing page on Github</title>
-        <link>/landingpageingithub.html</link>
-        <pubDate>Thu, 10 Dec 2015 20:42:16 EST</pubDate>
-        <description>Set up.</description>
-    </item>    
-    
-    <item>
         <title>Setting up your machine</title>
         <link>/machinesetup.html</link>
         <pubDate>Thu, 10 Dec 2015 20:17:49 EST</pubDate>
         <description>Set up.</description>
-    </item>    
-    
-    <item>
-        <title>Final Project</title>
-        <link>/finalproject.html</link>
-        <pubDate>Thu, 10 Dec 2015 19:38:43 EST</pubDate>
-        <description>Final Project.</description>
     </item>    
     
     <item>
