@@ -6,6 +6,20 @@
     <description>Example Site Description</description>
     
     <item>
+        <title>Due Dates & Sundry Matters</title>
+        <link>/duedates.html</link>
+        <pubDate>Mon, 14 Dec 2015 20:29:00 EST</pubDate>
+        <description>due dates.</description>
+    </item>    
+    
+    <item>
+        <title>Syllabus</title>
+        <link>/getting-started.html</link>
+        <pubDate>Mon, 14 Dec 2015 20:20:50 EST</pubDate>
+        <description>Course Syllabus.</description>
+    </item>    
+    
+    <item>
         <title>About</title>
         <link>/about.html</link>
         <pubDate>Thu, 10 Dec 2015 20:46:44 EST</pubDate>
@@ -52,13 +66,6 @@
         <link>/questionnaire.html</link>
         <pubDate>Thu, 10 Dec 2015 09:09:52 EST</pubDate>
         <description>Pre-class Qs.</description>
-    </item>    
-    
-    <item>
-        <title>Syllabus</title>
-        <link>/getting-started.html</link>
-        <pubDate>Thu, 10 Dec 2015 09:09:02 EST</pubDate>
-        <description>Course Syllabus.</description>
     </item>    
     
     <item>
