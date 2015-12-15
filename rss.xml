@@ -6,6 +6,13 @@
     <description>Example Site Description</description>
     
     <item>
+        <title>HIST3907O @ Carleton U 2016</title>
+        <link>/index.html</link>
+        <pubDate>Mon, 14 Dec 2015 20:53:38 EST</pubDate>
+        <description>Course Site.</description>
+    </item>    
+    
+    <item>
         <title>Due Dates & Sundry Matters</title>
         <link>/duedates.html</link>
         <pubDate>Mon, 14 Dec 2015 20:38:32 EST</pubDate>
@@ -73,13 +80,6 @@
         <link>/codeofconduct.html</link>
         <pubDate>Thu, 10 Dec 2015 09:08:12 EST</pubDate>
         <description>code of conduct.</description>
-    </item>    
-    
-    <item>
-        <title>HIST3902O @ Carleton U 2016</title>
-        <link>/index.html</link>
-        <pubDate>Wed, 09 Dec 2015 21:03:17 EST</pubDate>
-        <description>Course Site.</description>
     </item>    
     
     <item>
